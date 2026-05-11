@@ -4,6 +4,9 @@ Civic tech builders face an urgent crisis: rapid AI-driven development such as v
 
 Historically, designers and community members have been locked out of tool-building without technical collaborators. Vibecoding democratizes development, but we must ask at what cost. We acknowledge some value in embracing tech and innovation—we want to leverage this so civic tech work doesn't fall behind. The key is intention, not momentum.
 
+> Responsible Computing is much more than a technical requirement; it's an invitation to engage with deep questions about power.
+— Mozilla's Responsible Computing Challenge faculty member
+> 
 ## THE ACCOUNTABILITY GAP
 
 Who owns a vibecoded tool when it fails? Whose data is protected? What happens to communities served by hastily-built systems? These questions go unasked. Large organizations justify AI as cost-cutting, ignoring real harms: data center expansion, environmental costs, unauthorized creative labor use, and loss of community accountability.
@@ -67,5 +70,4 @@ Transparency & Accountability — Attribution, consent, open knowledge commons
 Resource Efficiency — Prevent redundancy, reuse existing solutions
 Governance & Ownership — Communities own and control their own tools
 
-> Responsible Computing is much more than a technical requirement; it's an invitation to engage with deep questions about power.
-— Mozilla's Responsible Computing Challenge faculty member
+
