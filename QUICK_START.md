@@ -60,7 +60,7 @@ A **15-question scorecard** that generates comparable, publishable impact assess
 **For people building on top of this or deploying it**
 
 - Full technical architecture
-- The 13 questions with detailed rubrics
+- The 15 questions with detailed rubrics
 - Data schema & JSON structure
 - Environmental calculation formulas
 - 5-phase roadmap (MVP → persistence → benchmarking → integration → analytics)
@@ -107,7 +107,7 @@ Download all 4 files from this package. Put them in a folder.
 ### Step 2: Run Your First Assessment
 1. Double-click `impact-assessment.html`
 2. Fill in project details (2 min)
-3. Answer 13 questions (10 min)
+3. Answer 15 questions (10 min)
 4. View your scorecard (5 min)
 5. Export JSON results (1 min)
 
@@ -121,7 +121,7 @@ Based on your scores, identify the lowest pillar and plan improvements.
 
 ## 📊 The Assessment at a Glance
 
-### 13 Questions, 3 Pillars
+### 3 Pillars
 
 **Human Impact**
 - Core purpose alignment
@@ -158,11 +158,10 @@ Overall:      1.0/2.0
 ## 🔬 Example: Real Project Assessment
 
 **Project:** Content Generation Pipeline
-- LLM: Claude 3.5 Sonnet
+- Model: Claude Haiku
 - API Calls (30 days): 1,500
 - Team: 3 people
 - Duration: 30 days
-- Outcome: 50% faster content, better consistency
 
 **Scores:**
 ```
@@ -198,7 +197,7 @@ AI is 96× more efficient!
 
 ### Phase 1: MVP ✓ (DONE)
 - Single-file HTML tool
-- 13 questions, three pillars
+- 15 questions, three pillars
 - JSON export
 
 ### Phase 2: Persistence (1–2 weeks)
@@ -360,7 +359,7 @@ This is an open framework. Contributions welcome:
 ### For Your First Assessment (Today)
 1. ✅ Open `impact-assessment.html`
 2. ✅ Fill in your most recent project
-3. ✅ Answer 13 questions (~10 min)
+3. ✅ Answer 15 questions (~10 min)
 4. ✅ Export and review results
 5. ✅ Share with your team
 
@@ -410,7 +409,7 @@ You now have everything needed to:
 
 ---
 
-**Last Updated:** December 2024  
+**Last Updated:** May 2026  
 **Version:** 1.0 MVP  
 **Status:** Production-ready for testing  
 
