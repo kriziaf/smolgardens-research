@@ -123,24 +123,22 @@ Based on your scores, identify the lowest pillar and plan improvements.
 
 ### 13 Questions, 3 Pillars
 
-**Human Impact (5 questions)**
+**Human Impact**
 - Core purpose alignment
 - Labor & skills uplift
 - Reusability by others
 - Cognitive sovereignty (users in control)
-- Collaboration & fairness
 
-**Systems Impact (5 questions)**
+**Systems Impact**
 - Speed vs. cost tradeoff
 - Quality & trust
 - Vendor lock-in risk
-- Environmental resource use
 - System resilience & maintainability
 
-**Environment (3 questions)**
+**Environment**
 - Model efficiency
-- Impact tracking
-- Comparison to human workflow
+- Carbon footprint tracking
+- Climate and Sustainability Futures
 
 ### Scoring: 0–2.0 per pillar
 - **0 = Not Met** (concern)
