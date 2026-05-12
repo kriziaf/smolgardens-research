@@ -1,4 +1,4 @@
-# Smolgardens: A Participatory design proposal for Responsible Computing in Civic Tech communities
+# Smolgardens: A Participatory Study on Responsible Computing in Civic Tech communities
 
 Civic tech builders face an urgent crisis: rapid AI-driven development such as vibecoding culture, promises speed without understanding the tradeoffs and consequences. It is creating redundant systems, technical debt, and unmaintainable tools, while policy lags far behind deployment and civic technologists face pressure to sacrifice responsibility.
 
